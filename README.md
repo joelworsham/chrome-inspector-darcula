@@ -3,7 +3,7 @@ chrome-inspector-darcula
 
 A beautiful darcula theme for the Chrome developer tools console.
 
-![alt tag](https://raw.github.com/joelworsham/chrome-inspector-darcula/master/screenshot.jpg)
+![alt tag](https://raw.github.com/joelworsham/chrome-inspector-darcula/master/screenshot.png)
 
 Instructions
 
